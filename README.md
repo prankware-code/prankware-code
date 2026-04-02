@@ -7,7 +7,7 @@
 *Building a PostgreSQL-based DBMS ecosystem in pure C*
 
 [![Email](https://img.shields.io/badge/-esavelievcode@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esavelievcode@gmail.com)
-<!-- [![Profile Views](https://komarev.com/ghpvc/?username=melisha-git&style=for-the-badge&color=0e75b6)](https://github.com/melisha-git) -->
+[![Profile Views](https://komarev.com/ghpvc/?username=prankware-code&style=for-the-badge&color=0e75b6)](https://github.com/prankware-code)
 
 </div>
 
@@ -75,9 +75,9 @@ education:  School 21 (Ecole 42 network) — alumni
 
 ### 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=melisha-git&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prankware-code&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melisha-git&layout=compact&theme=tokyonight&hide_border=true&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prankware-code&layout=compact&theme=tokyonight&hide_border=true&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![](./profile-3d-contrib/profile-night-view.svg) -->
 
