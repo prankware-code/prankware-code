@@ -7,7 +7,6 @@
 *Building a PostgreSQL-based DBMS ecosystem in pure C*
 
 [![Email](https://img.shields.io/badge/-esavelievcode@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esavelievcode@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=prankware-code&style=for-the-badge&color=0e75b6)](https://github.com/prankware-code)
 
 </div>
 
